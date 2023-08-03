@@ -7,9 +7,8 @@ const NavBar = () => {
     <div>
       <HStack
         justifyContent={"space-between"}
-        padding={5}
-        paddingBottom={0}
-        pos={"fixed"}
+        paddingBottom={5}
+        // pos={"fixed"}
         top={0}
         width={"100%"}
       >
