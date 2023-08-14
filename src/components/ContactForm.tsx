@@ -4,7 +4,7 @@ import { Box, Button, Center, FormControl, FormLabel, Input, Textarea } from "@c
 function ContactForm() {
   return (
     
-      <Box p={5} width={"50%"}>
+      <Box width={"50%"}>
           <Center>
             <FormControl width={"65%"} textAlign={"center"}>
               <FormLabel mt={4}>Name</FormLabel>
